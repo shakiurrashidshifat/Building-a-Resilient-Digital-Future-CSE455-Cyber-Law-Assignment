@@ -35,7 +35,7 @@ Some of the key provisions of the DSA include:
 
 Despite its broader scope, the DSA has faced significant criticism, particularly from human rights groups, journalists, and digital activists. A major point of contention is its vague language — terms like “defamatory” or “anti-state activities” are not clearly defined, leaving them open to broad interpretation. This has led to fears that the law may be misused to suppress freedom of expression, dissent, and journalistic activities.
 
-![digital 2018](https://github.com/user-attachments/assets/4ab10a76-6bf7-4cf9-9667-990c2c07ea22)
+![shakiur rashid shifat](https://github.com/user-attachments/assets/eafaf8ee-51b5-4a74-a3a8-ef227fdd70a0)
 
 The act also allows authorities to make arrests without a warrant in certain cases, raising concerns over abuse of power and lack of judicial oversight. Numerous reports indicate that the law has been used disproportionately against critics of the government or individuals expressing dissent on social media platforms.
 
@@ -56,6 +56,7 @@ The overlap between the ICT Act and the DSA creates confusion regarding jurisdic
 
 * Public Awareness and Digital Literacy
 Another pressing issue is the low level of public awareness regarding digital rights and legal protections. Many citizens are unaware of what constitutes a cybercrime or how to report it. Moreover, the lack of digital literacy makes users vulnerable to scams, phishing, and online harassment, which are often not reported or addressed due to the complexity of the legal process.
+![shakiur rashid shifat 2](https://github.com/user-attachments/assets/6081095d-0d31-45f8-9764-f1b3b681b840)
 
 ### 3. Global Models of Cyber Law
 In shaping a resilient and future-proof cyber legal framework, Bangladesh can benefit significantly by examining successful cyber law models from other countries. Different nations have pioneered diverse approaches to tackling cybercrime, data privacy, and digital rights. Below are several prominent global examples that highlight best practices and potential pathways for reform.
@@ -73,6 +74,8 @@ Key Features:
 
 * Heavy penalties for non-compliance, up to 4% of global annual turnover.
 
+![shakiur 4](https://github.com/user-attachments/assets/903a1bd9-e6ce-4c8c-85c5-b20638da1d50)
+
 ##### Relevance to Bangladesh:
 Bangladesh currently lacks a dedicated data protection framework. A GDPR-inspired law could ensure user privacy, build trust in digital services, and align Bangladesh with international digital commerce standards.
 
@@ -86,6 +89,8 @@ Key Features:
 * Criminal penalties for circumventing digital rights management (DRM).
 
 * Encourages cooperation between content creators, tech platforms, and regulators.
+
+![shakiur rashis shifat 3](https://github.com/user-attachments/assets/9b7a1205-34b2-489b-b8f7-2be082113a09)
 
 ##### Relevance to Bangladesh:
 Adopting a DMCA-like structure could help protect digital creators and businesses in Bangladesh by offering a clear process for addressing online copyright infringement.
