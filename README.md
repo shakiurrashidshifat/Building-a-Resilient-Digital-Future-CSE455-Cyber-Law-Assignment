@@ -1,5 +1,5 @@
 # Assignment Title:
-## "Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples"
+## Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
 ### 1. Introduction
 Bangladesh is undergoing a rapid digital transformation, integrating technology into key sectors such as finance, education, governance, and commerce. The “Digital Bangladesh” initiative has accelerated internet usage, mobile connectivity, and e-governance, making cyberspace a critical national asset.
 
@@ -19,7 +19,7 @@ However, the ICT Act now appears outdated in light of the rapid advancement of t
 
 In practice, the ICT Act is now used less frequently for prosecuting digital crimes, with the DSA 2018 becoming the primary statute in recent years.
 
-![ICT-ACT-2006-Law-Firm-in-Dhaka-Tahmidur-Rahman-1024x576](https://github.com/user-attachments/assets/90517e4f-7407-4e3c-b6fb-8b1256b07017)
+![shakiur 1](https://github.com/user-attachments/assets/e3db6219-a588-44de-9775-acae68bdbd8a)
 
 
 #### 2.2 Digital Security Act (DSA) 2018
@@ -134,12 +134,17 @@ Key Features:
 
 * Transparent and efficient digital voting and taxation.
 
+  ![shakiurr](https://github.com/user-attachments/assets/c8c56cc3-d99e-4887-82a1-dc655f0ff4b6)
+
+
 ##### Relevance to Bangladesh:
 Bangladesh can look to Estonia’s model for long-term reforms in e-governance, citizen digital identity, and legal infrastructure to enhance transparency and trust in government services.
 
 ### 4. Comparative Analysis
 To build a resilient cyber law framework, Bangladesh must assess and adapt successful practices from global cyber legislation. This comparative analysis highlights key differences and reform opportunities across areas such as privacy, enforcement, digital infrastructure, and human rights.
 
+![shakiuur](https://github.com/user-attachments/assets/2a911f06-ee7c-44e4-9084-d33d830958b0)
+ 
 #### 4.1 Data Protection and User Privacy
 * The European Union’s GDPR empowers individuals with rights over their personal data, including access, correction, deletion, and portability.
 
@@ -289,6 +294,9 @@ Recommended approach:
  ### 6. Implementation Challenges
 While legal reform is essential, its success depends heavily on implementation capacity, institutional preparedness, and societal readiness. Bangladesh will face several challenges in enforcing new cyber laws effectively. Recognizing these challenges is key to designing practical, sustainable solutions.
 
+![shakiur23](https://github.com/user-attachments/assets/d007a6df-6067-43fa-ac3c-19277ccf84d9)
+
+
 #### 6.1 Lack of Technical Expertise
 One of the primary barriers is the limited technical capacity among law enforcement, judiciary, and policymakers. Investigating cybercrimes, handling digital evidence, and interpreting technical threats require specialized knowledge and tools.
 
@@ -372,4 +380,14 @@ Based on these insights, a series of legal reforms have been proposed—ranging 
 
 Ultimately, building a resilient digital future for Bangladesh will require a balanced, inclusive, and forward-thinking approach. Legal reform must be accompanied by strong governance, public education, and international cooperation. Only then can Bangladesh fully realize the promise of digital transformation while safeguarding its citizens, institutions, and national interests in cyberspace.
 
+### Submitted By:
+#### MD. SHAKIUR RASHID SHIFAT
+#### STUDENT ID: 1902049
+#### LEVEL:4 SEMESTER:II
 
+### Submitted To:
+#### Pankaj Bhowmik
+#### Lecturer
+#### Department of Computer Science and Engineering (CSE)
+#### Faculty of Computer Science and Engineering
+#### Hajee Mohammad Danesh Science & Technology University, Dinajpur.
