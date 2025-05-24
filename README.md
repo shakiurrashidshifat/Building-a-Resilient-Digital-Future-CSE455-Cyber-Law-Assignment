@@ -7,6 +7,8 @@ However, this shift has also led to a rise in cyber threats, including data brea
 
 This assignment aims to analyze the current cyber law framework in Bangladesh, compare it with global best practices, and propose specific legal reforms. The goal is to develop a more secure, rights-based, and future-ready legal foundation for the country’s digital landscape.
 
+ ![Cybersecurity-Laws](https://github.com/user-attachments/assets/d2464297-eecf-4079-9c2d-093fb84cb53c)
+
 ### 2. Current Cyber Law Framework in Bangladesh
 Bangladesh’s cyber legal infrastructure is still in its developing stage. With the country embracing a “Digital Bangladesh” vision, the necessity of a robust legal framework to safeguard digital operations, online rights, and technological innovations is more critical than ever. At present, two major legislations constitute the backbone of Bangladesh’s cyber laws: the Information and Communication Technology (ICT) Act, 2006 and the Digital Security Act (DSA), 2018. Each of these laws carries specific objectives, strengths, and notable shortcomings that require critical evaluation and reform to meet the growing demands of cyberspace governance.
 
@@ -16,6 +18,9 @@ The ICT Act was a pioneering step for Bangladesh in regulating digital activity.
 However, the ICT Act now appears outdated in light of the rapid advancement of technology and evolving nature of cyber threats. It contains several provisions that have become redundant or conflict with newer laws. For instance, certain offenses that are now more comprehensively addressed in the Digital Security Act were initially included in the ICT Act, leading to overlapping legal authority and confusion in enforcement. Furthermore, the penalties and enforcement procedures outlined in the ICT Act are often criticized for being ambiguous or insufficient in deterring modern cybercriminals.
 
 In practice, the ICT Act is now used less frequently for prosecuting digital crimes, with the DSA 2018 becoming the primary statute in recent years.
+
+![ICT-ACT-2006-Law-Firm-in-Dhaka-Tahmidur-Rahman-1024x576](https://github.com/user-attachments/assets/90517e4f-7407-4e3c-b6fb-8b1256b07017)
+
 
 #### 2.2 Digital Security Act (DSA) 2018
 To replace and expand upon several elements of the ICT Act, the Digital Security Act, 2018 was introduced. It was designed to respond to more contemporary issues such as online defamation, cyberterrorism, digital fraud, hacking, and threats to national security. The act provides detailed definitions and penalties for various types of cyber offenses and grants significant investigative authority to law enforcement agencies.
@@ -29,6 +34,8 @@ Some of the key provisions of the DSA include:
 * Penalties for cyberstalking, identity theft, and spreading propaganda against the state.
 
 Despite its broader scope, the DSA has faced significant criticism, particularly from human rights groups, journalists, and digital activists. A major point of contention is its vague language — terms like “defamatory” or “anti-state activities” are not clearly defined, leaving them open to broad interpretation. This has led to fears that the law may be misused to suppress freedom of expression, dissent, and journalistic activities.
+
+![digital 2018](https://github.com/user-attachments/assets/4ab10a76-6bf7-4cf9-9667-990c2c07ea22)
 
 The act also allows authorities to make arrests without a warrant in certain cases, raising concerns over abuse of power and lack of judicial oversight. Numerous reports indicate that the law has been used disproportionately against critics of the government or individuals expressing dissent on social media platforms.
 
