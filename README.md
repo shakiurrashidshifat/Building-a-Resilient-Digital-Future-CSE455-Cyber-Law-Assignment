@@ -465,7 +465,6 @@ Based on these insights, a series of legal reforms have been proposed—ranging 
 
 Ultimately, building a resilient digital future for Bangladesh will require a balanced, inclusive, and forward-thinking approach. Legal reform must be accompanied by strong governance, public education, and international cooperation. Only then can Bangladesh fully realize the promise of digital transformation while safeguarding its citizens, institutions, and national interests in cyberspace.
 
- Here is a properly formatted References section in Markdown for your GitHub assignment, based on the content used in your report:
 
 ## References
 
