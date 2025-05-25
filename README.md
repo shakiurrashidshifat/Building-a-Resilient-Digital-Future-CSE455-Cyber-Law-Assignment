@@ -47,9 +47,16 @@
 | 7           | [Conclusion](#7-conclusion)                                                                    |
 | 8           | [References](#references)                                                                      |
 
+### List of Tables
+
+| Table No. | Title                                                                   |
+|-----------|-------------------------------------------------------------------------|
+| Table 1   | Global Models of Cyber Law                                              |
+| Table 2   | Comparative Analysis: Lessons & Gaps                                    |
+| Table 3   | Proposed Legal Reforms for Bangladesh                                   |
 
 
-### 1. Introduction
+ ### 1. Introduction 
 Bangladesh is undergoing a rapid digital transformation, integrating technology into key sectors such as finance, education, governance, and commerce. The “Digital Bangladesh” initiative has accelerated internet usage, mobile connectivity, and e-governance, making cyberspace a critical national asset.
 
 However, this shift has also led to a rise in cyber threats, including data breaches, online fraud, identity theft, and misinformation. Current cyber laws, primarily the ICT Act 2006 and the Digital Security Act 2018, are increasingly seen as outdated or overly broad, lacking alignment with international standards and technological advancements.
@@ -361,12 +368,6 @@ Recommended approach:
 
 * Publish reform proposals and open them to public feedback.
 
- ### 6. Implementation Challenges
-While legal reform is essential, its success depends heavily on implementation capacity, institutional preparedness, and societal readiness. Bangladesh will face several challenges in enforcing new cyber laws effectively. Recognizing these challenges is key to designing practical, sustainable solutions.
-
-![shakiur23](https://github.com/user-attachments/assets/d007a6df-6067-43fa-ac3c-19277ccf84d9)
-
-
 #### Table For Proposed Reforms for Bangladesh
 
 | Reform Area                        | Current Issue                                                  | Proposed Reform                                                                 |
@@ -378,6 +379,8 @@ While legal reform is essential, its success depends heavily on implementation c
 | AI, Deepfakes & Misinformation    | No specific regulation                                          | Define and penalize malicious deepfakes; require verification tools for content |
 | National Infrastructure Security  | Critical digital systems are not legally protected              | Introduce CII (Critical Information Infrastructure) protection framework        |
 
+ ### 6. Implementation Challenges
+While legal reform is essential, its success depends heavily on implementation capacity, institutional preparedness, and societal readiness. Bangladesh will face several challenges in enforcing new cyber laws effectively. Recognizing these challenges is key to designing practical, sustainable solutions.
 
 #### 6.1 Lack of Technical Expertise
 One of the primary barriers is the limited technical capacity among law enforcement, judiciary, and policymakers. Investigating cybercrimes, handling digital evidence, and interpreting technical threats require specialized knowledge and tools.
